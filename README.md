@@ -41,9 +41,7 @@ The main interface from which you can choose between **Offline**, **Online**, an
 
 **Game Lobby & Connection Setup**
 <br>
-<img width="1610" height="858" alt="Online Mode 1" src="https://github.com/user-attachments/assets/6b611deb-82d3-4cdf-ad9e-edfe4d4f6b39" />
-<img width="851" height="452" alt="image" src="https://github.com/user-attachments/assets/0c3edec6-b58b-4e1e-b093-a5b0ddc58d8a" />
-
+<img width="1613" height="863" alt="image" src="https://github.com/user-attachments/assets/ed2d6bae-2c42-4316-b3bc-09f414d17f61" />
 
 ---
 
