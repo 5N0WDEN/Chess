@@ -1,6 +1,6 @@
 # ♟️ Chess Game
 
-<img width="1600" height="863" alt="Offline Mode" src="https://github.com/user-attachments/assets/c701d062-c281-419a-9b6d-a24186c9d96d" />
+
 
 ## 📌 Overview
 This is a **custom-built Chess game** developed entirely **independently** — without any external assistance or AI-generated code.
@@ -11,6 +11,13 @@ The project uses **Python sockets** and **multithreading** to create an **adhoc 
 - **Computer (Player vs AI / Computer vs Computer)** modes.
 
 It’s a full-fledged chess engine and GUI built from scratch, handling real-time move synchronization, chat, and matchmaking through sockets.
+
+---
+
+## 🖥️ Main Menu UI
+The main interface from which you can choose between **Offline**, **Online**, and **Computer** modes.
+
+<img width="1600" height="863" alt="Main Menu UI" src="https://github.com/user-attachments/assets/4330766b-4442-41f9-8f11-f3a72915ba13" />
 
 ---
 
