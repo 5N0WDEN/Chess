@@ -1,4 +1,4 @@
-# ♟️ Adhoc Multiplayer Chess Game (Socket + Threading)
+# ♟️ Chess Game
 
 ## 📌 Overview
 This is a **custom-built Chess game** developed entirely **independently** — without any external assistance or AI-generated code.
@@ -79,15 +79,3 @@ The server manages:
 <img width="1912" height="695" alt="Server Communication" src="https://github.com/user-attachments/assets/fe8e314b-7586-43b6-aa0d-47d099924f77" />
 
 ---
-
-## 🧠 Architecture Overview
-```text
-+---------------------+           +----------------------+
-|      Player 1       |  <---->   |       Server         |
-| (Client - Socket)   |           | (Socket + Threads)   |
-+---------------------+           +----------------------+
-             ↑                                 ↓
-+---------------------+           +----------------------+
-|      Player 2       |  <---->   |       AI Engine      |
-| (Client - Socket)   |           | (Optional Component) |
-+---------------------+           +----------------------+
