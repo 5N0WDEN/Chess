@@ -1,5 +1,7 @@
 # ♟️ Chess Game
 
+<img width="1600" height="863" alt="Offline Mode" src="https://github.com/user-attachments/assets/c701d062-c281-419a-9b6d-a24186c9d96d" />
+
 ## 📌 Overview
 This is a **custom-built Chess game** developed entirely **independently** — without any external assistance or AI-generated code.
 
