@@ -1,6 +1,6 @@
 # Chess
 # What is the most complicated code you have written independently without AI or anyone else's assistance? Attach the question as multiline comment above your code and upload the file.
-# These are the output screenshots
+These are the output screenshots
 <img width="1600" height="863" alt="image" src="https://github.com/user-attachments/assets/18f05aa0-854c-41ae-9a09-950968b243f1" />
 # Offline Mode
 <img width="1615" height="906" alt="image" src="https://github.com/user-attachments/assets/c701d062-c281-419a-9b6d-a24186c9d96d" />
